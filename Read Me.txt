@@ -1,0 +1,5 @@
+Updated 3/12/2002.
+    Added the FileExists procedure to the LookaheadStream class. VB unfortunately CREATES an 
+    empty file even if the access mode is Read-Only. 
+
+   

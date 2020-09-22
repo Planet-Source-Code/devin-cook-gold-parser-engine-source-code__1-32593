@@ -1,0 +1,16 @@
+Symbol = 63, 48, 797, 542, C
+Rule = 55, 9, 811, 548, C
+FAState = 74, 103, 852, 578, C
+FAEdge = 44, 44, 870, 573, C
+ObjectList = 40, 93, 867, 611, C
+VariableList = 44, 44, 786, 532, C
+LRAction = 107, 74, 859, 624, C
+LRActionTable = 105, 58, 855, 559, C
+Token = 17, 2, 860, 554, C
+TokenStack = 80, 76, 865, 560, C
+GOLDParser = 39, 12, 901, 595, C
+StringList = 120, 114, 812, 509, C
+Reduction = 73, 133, 846, 547, C
+LookaheadStream = 0, 0, 0, 0, C
+SimpleDataBase = 22, 22, 823, 472, C
+frmTestEngine = 110, 110, 850, 587, C, 88, 88, 818, 488, C
